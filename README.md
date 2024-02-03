@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sly2069
+- 👋 Hi, I’m @s-moreau00
 - 👀 I’m interested in social media, travel and applications 
 - 🌱 I’m currently learning digital project lead at Digital Campus, Lyon 
 - 💞️ I’m looking to collaborate on jacvascript, React & Vue
